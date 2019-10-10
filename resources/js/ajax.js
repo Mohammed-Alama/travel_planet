@@ -1,1 +1,1 @@
-console.log('Ajax File');
+//TODO: Add Ajax functions to CRUD operations
